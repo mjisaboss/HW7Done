@@ -7,7 +7,6 @@
 ### **Description**
 This is project was created as a part of the course "Introduction to AR/VR Application Development" course. The project demonstrates a simple usage of a web AR or traditional AR project that has a transpatent video created using ML. It consists of the following:
 - readme.md (markdown file)
-- sample.glb (3D model)
 - Android application with transparent video (chroma key) 
 
 
